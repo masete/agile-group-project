@@ -8,5 +8,10 @@ class User:
         self.username = username
         self.password = password
         self.is_logged_in = False
+
+
+        
     
+    
+
    
